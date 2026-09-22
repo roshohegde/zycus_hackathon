@@ -30,7 +30,7 @@ The core demo path is:
 
 ### Version decision
 
-The brief names Spring Boot 3.x and React 18, while the supplied scaffold uses newer versions. Do not spend hackathon time downgrading unless the build or a required API fails. First run the backend and frontend builds, keep the existing versions if they work, and record the deviation in `ADR.md`. The implementation should avoid version-specific APIs where possible.
+The brief names Spring Boot 3.x and React 18, while the supplied scaffold uses newer versions. First run the backend and frontend builds, keep the existing versions if they work, and record the deviation in `ADR.md`. The implementation should avoid version-specific APIs where possible.
 
 ## 3. Scope and priorities
 
